@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BeatBake</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 18 Jun 2026 17:30:20 +0100</pubDate>
+            <sparkle:version>99</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0/BeatBake.dmg" length="7363013" type="application/octet-stream" sparkle:edSignature="cGs9L/YCy6CmCZ70I0m1pLPE8gsZmTwjT0CP0aFKaLb12cuUsc4s3Y1Pu2wHTW+8CfGe5dbagbJMG+NS5EKxDQ=="/>
+        </item>
+    </channel>
+</rss>
