@@ -4,12 +4,12 @@
         <title>BeatBake</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 18 Jun 2026 19:54:51 +0100</pubDate>
-            <sparkle:version>101</sparkle:version>
+            <pubDate>Thu, 18 Jun 2026 20:19:01 +0100</pubDate>
+            <sparkle:version>102</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0/BeatBake.dmg" length="6898361" type="application/octet-stream" sparkle:edSignature="cllroYVJdf68Guf577aBVM4dEFh64UlDvStB/6o5PzjNembpULWygJPMsKcQiBppoil+lXV6GQBPCYlmJXzuBA=="/>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0/BeatBake.dmg" length="6955228" type="application/octet-stream" sparkle:edSignature="c+Huqb9gmQhnG5gQ4Wc7j/nwZUx/OAKGfQXNpHFiweIawAQadhP+3jm4SXGgHNh6CsER/8M/jRix1AsikoEsAA=="/>
         </item>
     </channel>
 </rss>
