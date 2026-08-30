@@ -10,7 +10,22 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Chart Builder drag-arranging: shift-click a range, drop on an insertion line, undo as one step. Grouped rests move as a block.
+            <description sparkle:format="markdown"><![CDATA[## Chart Builder
+Song charts are now a first-class window: Chart Builder button in the notation header, Shift-Command-N, or the Chart menu.
+
+- Shift-click a run of bars, drag to an insertion line, drop to commit. One undo step. Grouped rests stay together. Left/right buttons move the same selection.
+- First and second time bars (volta brackets) with playback that takes the first ending, then the second.
+- Navigation marks: Segno, To Coda, Coda, D.S. al Coda, engraved with Bravura.
+- Full-depth repeat barlines, x1–x8 counts, and clearance so notes no longer crowd the marks.
+- Paste over the selected bar without changing chart length.
+- Screen and print use separate symbol scales so the in-app chart and the PDF can both read cleanly.
+
+## Notation
+- Full-beat sixteenth-triplet groups now label **6**, not 3. Eighth and quarter triplets stay **3**.
+- Compact four-bar printed charts: shared staff geometry, engraved time signatures, smaller simile marks, larger rests, dotted-rest and flag spacing fixes.
+
+## Already in 1.0
+macOS 14+, 7-day trial, Lemon Squeezy licensing. This build is 133 (was 107).
 ]]></description>
             <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.133/BeatBake.dmg" length="7312885" type="application/octet-stream" sparkle:edSignature="geYcPieIYKnMfvTb4IwcXEzZ+9wPCl5dGnYbxHz9rkWpQzk4KOo8c/U5dasNirbvn9uzIVCmErtfKdJGTli4DQ=="/>
         </item>
