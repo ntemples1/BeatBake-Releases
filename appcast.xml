@@ -4,12 +4,15 @@
         <title>BeatBake</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 18 Jun 2026 22:42:48 +0100</pubDate>
-            <sparkle:version>107</sparkle:version>
+            <pubDate>Sun, 30 Aug 2026 12:27:29 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>133</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0/BeatBake.dmg" length="6942404" type="application/octet-stream" sparkle:edSignature="FvS07vGrJxFeZ/SIx5SGvjzp5mGHFWcKVQf4w1RHtVife73pvCeVqdhN4HladLt8b0uAturVM3V3X4DXTF+tDA=="/>
+            <description sparkle:format="markdown"><![CDATA[Chart Builder drag-arranging: shift-click a range, drop on an insertion line, undo as one step. Grouped rests move as a block.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.133/BeatBake.dmg" length="7312885" type="application/octet-stream" sparkle:edSignature="geYcPieIYKnMfvTb4IwcXEzZ+9wPCl5dGnYbxHz9rkWpQzk4KOo8c/U5dasNirbvn9uzIVCmErtfKdJGTli4DQ=="/>
         </item>
     </channel>
 </rss>
