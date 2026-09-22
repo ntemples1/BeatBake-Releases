@@ -8,6 +8,23 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 22 Sep 2026 19:05:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>137</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Faster chart tempo
+- Song Chart Builder now has a tempo slider, like the main window.
+- Click and drag the BPM number: right or up to speed up, left or down to slow down. Hold Option for fine control.
+- The arrows still step 1 BPM at a time, and a whole drag undoes in one step.
+
+Also includes everything in 136. This build is 137.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.137/BeatBake.dmg" length="7347582" type="application/octet-stream" sparkle:edSignature="3N2HTsIvvcE9BvMdAQ83JSdDV/EsH9ijcKmI8CFqSQ6gYgZ777Jeu6/XmLSfOCsAkhzUsrN8oT3K8lI1MRprAQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 22 Sep 2026 18:45:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>136</sparkle:version>
