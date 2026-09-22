@@ -4,37 +4,37 @@
         <title>BeatBake</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 22 Sep 2026 19:20:00 +0100</pubDate>
+            <pubDate>Tue, 22 Sep 2026 22:15:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
-            <sparkle:version>137</sparkle:version>
+            <sparkle:version>146</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Faster chart tempo
-- Song Chart Builder now has a tempo slider, like the main window.
-- Click and drag the BPM number: right or up to speed up, left or down to slow down. Hold Option for fine control.
-- The arrows still step 1 BPM at a time, and a whole drag undoes in one step.
+            <description sparkle:format="markdown"><![CDATA[## Worksheets
+- Double-click an exercise to edit it on the grid. Every change is saved into that exercise, with a banner above the grid and a Done button.
+- Drag exercise cards to reorder them. A blue line shows where the exercise will land.
+- Rename an exercise with the pencil beside its name, or right-click > Rename Exercise.
+- Replacing an exercise keeps its name and only updates the notation.
+- Card icons are visible in dark mode and when a card is selected.
 
-## Safer saving
-- If your library can't be read in full, BeatBake now keeps a copy of the original file, opens everything it can, and tells you. Nothing is overwritten.
-- Pending saves finish when you close Chart Builder or quit. If a save fails on quit, you can cancel and keep working.
-- New or Open over an edited chart asks you to Save, Discard, or Cancel.
-- Groove undo now goes back 100 steps (was 5).
+## Printing
+- Worksheets print on exactly the pages they need, with no blank page at the end.
+- Exercises are centred on the page, with matching left and right margins.
+- The dot of a dotted rest sits next to the rest in printed worksheets.
 
-## Song Chart Builder
-- Choose individual bars or grouped rests when adding bars and sections.
-- Delete Bar button beside Add Bar.
-- Left/Right arrows move between bars, Up returns to bar 1, and the selected bar scrolls into view.
-- Chart Builder uses a single window: opening it again brings your chart forward.
-- Faster drawing and playback on long charts.
+## Notation
+- Put a Pedal Hi-Hat (foot) note where an open hi-hat closes: the foot shows below the stave and a "+" above it at the same beat.
+- The Close tool moves the "+" to the note you mark, instead of adding a second one.
+- Sticking letters sit clear of hi-hat "o" and "+" marks and accents, on screen and in print.
 
-## Playback and licensing
-- Steadier timing at fast tempos.
-- The seven-day offline grace starts as soon as you activate your licence.
+## Also since 1.0 (133)
+- Song Chart Builder tempo slider and drag-to-change tempo.
+- Safer saving: if your library can't be read in full, BeatBake keeps a copy of the original and opens everything it can.
+- Groove undo goes back 100 steps. Chart Builder navigation, Delete Bar and faster long charts.
 
-This build is 137 (was 133).
+This build is 146.
 ]]></description>
-            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.137/BeatBake.dmg" length="7347582" type="application/octet-stream" sparkle:edSignature="3N2HTsIvvcE9BvMdAQ83JSdDV/EsH9ijcKmI8CFqSQ6gYgZ777Jeu6/XmLSfOCsAkhzUsrN8oT3K8lI1MRprAQ=="/>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.146/BeatBake.dmg" length="7385792" type="application/octet-stream" sparkle:edSignature="cE1WXCEI/wW8HyNAagGDYyDoYSJfqvFX4siXwNia1oYzD5iyycSpZUYPWKFGZxqoSuzCsF3hukcyPDUE/jHADA=="/>
         </item>
     </channel>
 </rss>
