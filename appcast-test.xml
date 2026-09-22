@@ -8,6 +8,29 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 22 Sep 2026 21:05:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>143</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Open hi-hats close where you want
+- Put a Pedal Hi-Hat (foot) note where the hi-hat closes. The foot shows below the stave and a "+" shows above it at the same beat.
+- The next hand hi-hat no longer gets a stray "+".
+- The Close tool moves the "+" to the note you mark, instead of adding a second one.
+
+## Worksheets (since 137)
+- Double-click an exercise to edit it on the grid; changes save into the exercise.
+- Drag exercise cards to reorder them.
+- Rename with the pencil or right-click. Replacing an exercise keeps its name.
+- Card icons are visible in dark mode and when selected.
+
+This build is 143.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.143/BeatBake.dmg" length="7385338" type="application/octet-stream" sparkle:edSignature="5SrseRhzgWSmEQ6WhyeDbIjlW9w+jDnhzt8jLKdAIknhhp+a8iYiy6giHTKfi4j0HjZtSaeiqoWKS6NLjh8cCg=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 22 Sep 2026 21:00:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>142</sparkle:version>
