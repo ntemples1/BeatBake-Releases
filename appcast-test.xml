@@ -8,6 +8,28 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 22 Sep 2026 21:10:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>141</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Edit worksheet exercises on the grid
+- Double-click an exercise card to open it on the grid. Every change you make is saved into that exercise automatically.
+- A banner above the grid shows which exercise you're editing. Click Done when you've finished.
+- Rename an exercise with the pencil beside its name, or right-click > Rename Exercise.
+
+## Also since 137
+- Drag exercise cards to reorder them.
+- Card icons are visible in dark mode and when selected.
+- Replacing an exercise keeps its name.
+
+This build is 141.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.141/BeatBake.dmg" length="7385274" type="application/octet-stream" sparkle:edSignature="X4nvy/I9Ffq+MpkA5Is3n/K1myLoIHY1lXLu/bP2svV0xM/AeTJSKhxlkdDk4GO+vF2++nI2XCW2cf1IJgnACg=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 22 Sep 2026 20:45:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>140</sparkle:version>
