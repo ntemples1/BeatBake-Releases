@@ -8,6 +8,22 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 22 Sep 2026 22:40:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>147</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Print stickings on worksheets
+- New Stickings button next to 1/line-2/line on the worksheet. When it's on (the default), your R/L stickings print on the worksheet.
+- Turn it off for a cleaner page. Worksheets without stickings print the same either way.
+
+This build is 147.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.147/BeatBake.dmg" length="7388798" type="application/octet-stream" sparkle:edSignature="Pm+ZROOxpzxILg6ubqs9V6Izh54kWgypD7b7bHP2ZhvTrYtwcXTiZ97gSaqpWEwTfRk173PFjp5kIYoDCVdlCg=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 22 Sep 2026 22:05:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>146</sparkle:version>
