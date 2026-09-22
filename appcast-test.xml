@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<!--
+  TEST FEED. Only Macs pointed at this file (via the SUFeedURL user default)
+  are offered these builds. Customers' apps read appcast.xml, not this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BeatBake (test)</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 22 Sep 2026 18:45:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>136</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Safer saving
+- If your library can't be read in full, BeatBake now keeps a copy of the original file, opens everything it can, and tells you. Nothing is overwritten.
+- Pending saves finish when you close Chart Builder or quit. If a save fails on quit, you can cancel and keep working.
+- New or Open over an edited chart asks you to Save, Discard, or Cancel.
+- Groove undo now goes back 100 steps (was 5).
+
+## Song Chart Builder
+- Choose individual bars or grouped rests when adding bars and sections.
+- Delete Bar button beside Add Bar.
+- Left/Right arrows move between bars, Up returns to bar 1, and the selected bar scrolls into view.
+- Chart Builder uses a single window: opening it again brings your chart forward.
+- Faster drawing and playback on long charts.
+
+## Playback and licensing
+- Steadier timing at fast tempos.
+- The seven-day offline grace starts as soon as you activate your licence.
+
+This build is 136 (was 133).
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.136/BeatBake.dmg" length="7336623" type="application/octet-stream" sparkle:edSignature="jZEqfobl014QzFyigg0xlMJPfeDGsng/nJqlYsNuS4DejgioNVHyjeEky6biRvKjQG5dPNKb9jtNaK2OYyotDg=="/>
+        </item>
+    </channel>
+</rss>
