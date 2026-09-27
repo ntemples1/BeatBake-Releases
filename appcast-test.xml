@@ -8,6 +8,29 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Sun, 27 Sep 2026 18:30:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>148</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Writing fills stems up
+- New "Bar voice" menu next to Clear bar: move every hand note in the bar to stems up (or down, or back to Auto) in one step, triplets included. Kick and hi-hat foot stay below.
+- Drums in the upper voice keep the note value you entered: an 8th snare no longer turns into a quarter note.
+
+## Rests
+- Rests never cross a beat: an 8th rest on the & of 1 then a quarter rest on 2.
+- Half rests start where the gap starts and sit above or below the staff, clear of the notes.
+
+## Also since 146
+- Stickings print on worksheets (Stickings button, on by default).
+
+This build is 148.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.148/BeatBake.dmg" length="7400540" type="application/octet-stream" sparkle:edSignature="So/TCEZlHFBmMrcdYqFouz8aMC2yXxjHDVWLZvwWYhea1PsnPvgSzWXbwKbCQl4EFNhW82x/oDXBX2pnDwXEAA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 22 Sep 2026 22:40:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>147</sparkle:version>
