@@ -8,6 +8,30 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 29 Sep 2026 09:00:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>150</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Worksheets
+- The worksheet header is tidier: Library, Save/Delete Template and Print are now icons (hover for the name), so Play, Add Current, 1/line and Stickings show in full.
+- New Export button (two arrows) sends the worksheet to Sibelius, MuseScore, Dorico or Finale, each exercise on its own line.
+
+## Sibelius and MuseScore
+- Export a groove, song chart or worksheet: File > Export (Command-E), or the Sibelius button above the notation or in Chart Builder.
+- Import a drum part saved from Sibelius or MuseScore (File > Export > MusicXML there): as a whole new song chart in Chart Builder, or as the first 4 bars of a groove.
+
+## Also since 146
+- Bar voice menu for writing fills stems up; rests that respect the beat.
+- Stickings print on worksheets (Stickings button, on by default).
+
+This build is 150.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.150/BeatBake.dmg" length="7539479" type="application/octet-stream" sparkle:edSignature="3a5bPJFU9NkzI1NB9r8ok4VtBSWBkD2cs24k0AaaSBDw19rrQbV1aCdN6Orck/kQD0unKXN/oRtf5pZ0SkMRAQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sun, 27 Sep 2026 22:40:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>149</sparkle:version>
