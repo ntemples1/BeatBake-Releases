@@ -8,6 +8,27 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 08 Oct 2026 13:15:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>153</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Flip stems with one click
+- Click a notehead in the notation (a blue ring shows it is picked), then click **Flip Stems** above the notation or press **X**. The stem flips up or down, and flipping again puts it back exactly as it was.
+- With no note picked, Flip Stems flips every hand note in the selected bar together. Kick and hi-hat foot stay down.
+- Click empty space in the notation to un-pick a note.
+
+## Also in this test build (from 151 and 152)
+- Copy Bar, Paste Over, Paste After, Duplicate Bar and Insert Empty Bar After (right-click a bar's grip, or the "..." Bar actions menu in the Grid toolbar), with Command-C and Command-V.
+- Drag a bar's grip to reorder bars, nudge with the arrows, and delete any bar, not just the last.
+
+This build is 153.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.153/BeatBake.dmg" length="7590337" type="application/octet-stream" sparkle:edSignature="VWt/XRW98iELfY5XuPEpnkdDuUS0mtWhhGcufX0ig43XDvOc9oV6JiucjtvGYTHfMO0wH4o8YDfLDgQGtykpCA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 08 Oct 2026 12:30:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>152</sparkle:version>
