@@ -8,6 +8,30 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 08 Oct 2026 16:05:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>158</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Right-click a bar
+- **Right-click any bar in the notation** (anywhere on it, or on its grip) for a menu: Copy Bar, Paste Over, Paste After, Duplicate, Insert Empty Bar After, Clear Bar, **Flip Stems in Bar**, a **Bar Voice** submenu (stems up, stems down, auto), **Add Bar to Worksheet**, Play Only Bar / Play All Bars, Move Left, Move Right and Delete Bar. The bar you click becomes the selected bar, and lines that can't work right now are greyed out.
+
+## Worksheets
+- A new **Worksheet** button sits beside Chart Builder above the notation. It opens the worksheet panel and takes you straight to it.
+- The worksheet panel has a big blue **New Worksheet** button at the top right, and a "No worksheet yet" message with the same button when you have none.
+- **Right-click an exercise** on the worksheet for Copy Exercise, Paste Over Exercise, Paste After Exercise, Load onto Grid, Move Up/Down, plus Edit, Rename, Duplicate and Delete. A copied exercise can be pasted into any worksheet.
+- The worksheet header is tidied so Add Current and Save To are no longer cut off.
+
+## Also in this test build (from 151 to 157)
+- Worksheet Add Current / Save To use the selected bar, Save offers to update a loaded exercise or Library preset, flip stems, copy/paste/duplicate/insert bars, drag to reorder bars, delete any bar, and the status message no longer covering the top buttons.
+
+This build is 158.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.158/BeatBake.dmg" length="7625430" type="application/octet-stream" sparkle:edSignature="jBA6xIWBEQQHApUggrIWcZj0eq0IKh03h/myLgsJi4BkGVFoRlxk2PDlnQuc8osUeXq+0iQae811Rs4FRKYOBw=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 08 Oct 2026 15:30:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>157</sparkle:version>
