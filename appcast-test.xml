@@ -8,6 +8,23 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 08 Oct 2026 10:30:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>151</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Rearranging bars
+- Each bar of the notation has a grip underneath it. Drag it to move the bar: a blue line shows where it will land, and the bar takes its notes, flams, accents, voices and stickings with it.
+- Arrows on the grip nudge a bar one place left or right (useful when the bar you want is off-screen), and a right-click gives Move Left, Move Right and Delete.
+- Delete any bar, not just the last: the bin on a bar, or the bin beside Clear Bar. The bars after it slide up, so you can keep only bar 4 of a 4-bar groove. Each move or delete is one Undo step.
+
+This build is 151.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.151/BeatBake.dmg" length="7570311" type="application/octet-stream" sparkle:edSignature="rQqjyQEzE9bmc8j8sUpjTs5C5YcjkYssYsLuspJ9kz1GEkU870YpkrbDBbmne3+XCpT303xRtr9VQgB+ipekCg=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 29 Sep 2026 09:00:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>150</sparkle:version>
