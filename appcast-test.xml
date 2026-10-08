@@ -8,6 +8,26 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 08 Oct 2026 12:30:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>152</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Copy, paste, duplicate and insert bars
+- Right-click a bar's grip (under the notation) for Copy Bar, Paste Over, Paste After, Duplicate Bar and Insert Empty Bar After. The round "..." Bar actions menu in the Grid toolbar has the same actions, plus Delete Bar.
+- Command-C copies the selected bar and Command-V pastes over it (not while you are typing in a text field).
+- Paste After, Duplicate and Insert move the later bars along. A groove holds up to four bars.
+
+## Rearranging bars (from 151)
+- Drag a bar's grip to move it, nudge it with the arrows, or delete any bar (not just the last), so you can keep, say, only bar 4.
+
+This build is 152.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.152/BeatBake.dmg" length="7582221" type="application/octet-stream" sparkle:edSignature="oBcil0vZGX7kSntELFVIIstl4vuZosaHZH0pk2cUKtBcdPpIulU3FBC0cadifewRNjXIvXnZYfRDQNMoZYtSAQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 08 Oct 2026 10:30:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>151</sparkle:version>
