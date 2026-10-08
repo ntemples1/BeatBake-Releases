@@ -8,6 +8,26 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 08 Oct 2026 13:45:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>154</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Fix
+- The short message that appears when you do something ("Saved", "Bar 4 stems flipped down" and so on) no longer covers the top buttons. It now sits in the empty space at the left of the Play / Tempo row.
+
+## Also in this test build (from 151 to 153)
+- Flip Stems: click a notehead, then the Flip Stems button or X.
+- Copy Bar, Paste Over, Paste After, Duplicate Bar and Insert Empty Bar After, with Command-C and Command-V.
+- Drag a bar's grip to reorder bars, nudge with the arrows, and delete any bar.
+
+This build is 154.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.154/BeatBake.dmg" length="7589817" type="application/octet-stream" sparkle:edSignature="lk4lFu0/dWCiH7B1+1kqJov95jx4j50jYkO3RBTh1OmI3ABHZTYV0ZnSTtun0JRXDf0z2cVzDrAyUoqqNxGrBg=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 08 Oct 2026 13:15:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>153</sparkle:version>
