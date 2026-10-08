@@ -8,6 +8,42 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 08 Oct 2026 19:25:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>159</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Notation spacing
+- A new **Spacing** slider above the notation runs from **Compact** to **Wide**, with a **Fit** button to reset. Short grooves can now sit compactly in the middle of the panel. Note size does not change, and printing is not affected. BeatBake remembers your setting.
+
+## Keeping your work safe
+- **Back Up All Data** now makes a `.beatbakebackup` file that holds your whole library, settings and the song chart you are working on. **Restore Backup** shows what is inside, asks first, and makes a safety copy of what you have before replacing anything.
+- BeatBake keeps a **daily backup** automatically (the last 14 days). **Show Daily Backups** opens the folder and **Choose Backup Folder** copies each day's backup somewhere else too, such as an external drive.
+- If a library or chart file ever cannot be read, BeatBake now keeps an exact copy of it and warns you instead of quietly overwriting it.
+- **Undo** now covers worksheets, presets and rudiments: delete, rename, replace, reorder and duplicate.
+- When the trial ends, your work still autosaves for recovery. Saving files, printing and exporting still need a licence.
+
+## Files
+- A `.drumgroove` file now holds just the groove (not your whole library), so you can share one safely. **Open Recent** is in the File menu. Double-clicking a groove, chart or backup file in Finder opens it in BeatBake.
+- **Open Example Chart** gives you an original 16-bar example chart to explore (also offered on first run).
+
+## Playing and editing
+- In the grid: arrow keys move the selection, **Return** applies the current tool and **Delete** removes a note. Grid cells and notes now have VoiceOver descriptions.
+- Each drum hit now carries its own volume, which is aimed at the occasional loud-jump you could hear. If the audio device changes while playing, BeatBake stops cleanly and asks you to press Play again.
+- Crash reports now use the Mac's own reports.
+
+## Also in this test build (from 151 to 158)
+- Right-click menus on bars and worksheet exercises, Worksheet and big blue New Worksheet buttons, flip stems, copy/paste/duplicate/insert bars, drag to reorder bars, delete any bar, and Save offering to update a loaded preset or exercise.
+
+A copy of your library was saved before this build was released. Please try it on a normal day's work first. Not yet checked on real hardware: unplugging audio devices mid-play, sleep/wake, VoiceOver and MIDI timing.
+
+This build is 159.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.159/BeatBake.dmg" length="7839692" type="application/octet-stream" sparkle:edSignature="nGgoMpQpDEgrIzLElCkUVUelQrn/EsEVVIb+W5H7M7G7WvIE2y45m98IMpgpaQk87Q3k00FwUZVv78JKhdd1BQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 08 Oct 2026 16:05:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>158</sparkle:version>
