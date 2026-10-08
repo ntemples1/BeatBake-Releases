@@ -4,37 +4,35 @@
         <title>BeatBake</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 22 Sep 2026 22:15:00 +0100</pubDate>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
-            <sparkle:version>146</sparkle:version>
+            <sparkle:version>150</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Worksheets
-- Double-click an exercise to edit it on the grid. Every change is saved into that exercise, with a banner above the grid and a Done button.
-- Drag exercise cards to reorder them. A blue line shows where the exercise will land.
-- Rename an exercise with the pencil beside its name, or right-click > Rename Exercise.
-- Replacing an exercise keeps its name and only updates the notation.
-- Card icons are visible in dark mode and when a card is selected.
+            <description sparkle:format="markdown"><![CDATA[## Sibelius and MuseScore
+- Export a groove, song chart or worksheet to Sibelius, MuseScore, Dorico or Finale: File > Export (Command-E), the Sibelius button above the notation or in Chart Builder, or the Export button on the worksheet.
+- It opens as an editable drum set part with your stickings, accents, flams, ghost notes, hi-hat "o" and "+", triplets, sections, repeats and 1st/2nd time bars.
+- Import a drum part saved from Sibelius or MuseScore (File > Export > MusicXML there): as a whole new song chart in Chart Builder, or as the first 4 bars of a groove.
 
-## Printing
-- Worksheets print on exactly the pages they need, with no blank page at the end.
-- Exercises are centred on the page, with matching left and right margins.
-- The dot of a dotted rest sits next to the rest in printed worksheets.
+## Writing fills
+- New "Bar voice" menu next to Clear bar: move every hand note in the bar to stems up (or down, or back to Auto) in one step, triplets included. Kick and hi-hat foot stay below.
+- Drums in the upper voice keep the note value you entered: an 8th snare no longer turns into a quarter note.
+- Rests never cross a beat, and half rests start where the gap starts, clear of the notes.
 
-## Notation
-- Put a Pedal Hi-Hat (foot) note where an open hi-hat closes: the foot shows below the stave and a "+" above it at the same beat.
-- The Close tool moves the "+" to the note you mark, instead of adding a second one.
-- Sticking letters sit clear of hi-hat "o" and "+" marks and accents, on screen and in print.
+## Worksheets
+- Stickings can be printed on worksheets (Stickings button, on by default).
+- The worksheet header is tidier: Library, Save/Delete Template and Print are now icons (hover for the name), so the other buttons show in full.
 
-## Also since 1.0 (133)
-- Song Chart Builder tempo slider and drag-to-change tempo.
-- Safer saving: if your library can't be read in full, BeatBake keeps a copy of the original and opens everything it can.
-- Groove undo goes back 100 steps. Chart Builder navigation, Delete Bar and faster long charts.
+## Also since 133
+- Worksheets: double-click an exercise to edit it on the grid, drag cards to reorder, rename with the pencil.
+- Print: no blank last page, exercises centred, dotted-rest dots in the right place.
+- Hi-hat foot close with a "+" above it, and sticking letters kept clear of other marks.
+- Song Chart Builder tempo slider and drag-to-change tempo; safer saving; undo goes back 100 steps.
 
-This build is 146.
+This build is 150.
 ]]></description>
-            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.146/BeatBake.dmg" length="7385792" type="application/octet-stream" sparkle:edSignature="cE1WXCEI/wW8HyNAagGDYyDoYSJfqvFX4siXwNia1oYzD5iyycSpZUYPWKFGZxqoSuzCsF3hukcyPDUE/jHADA=="/>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.150/BeatBake.dmg" length="7539479" type="application/octet-stream" sparkle:edSignature="3a5bPJFU9NkzI1NB9r8ok4VtBSWBkD2cs24k0AaaSBDw19rrQbV1aCdN6Orck/kQD0unKXN/oRtf5pZ0SkMRAQ=="/>
         </item>
     </channel>
 </rss>
