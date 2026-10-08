@@ -8,6 +8,25 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 08 Oct 2026 15:30:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>157</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Worksheets
+- **Add Current** and **Save To** now use the bar you have selected (the one highlighted in the notation). Before, they used the playhead's bar, which is bar 1 unless something had been played, so a bar you had edited or flipped could be missed. If Play is set to a single bar, that bar is still used. The message tells you which bar was added.
+- If you load a worksheet exercise onto the grid with a single click, change it and press Save, BeatBake now asks whether to **Update Exercise** too, so the change reaches the worksheet. (Double-clicking an exercise to edit it on the grid already saved straight back and doesn't ask.)
+
+## Also in this test build (from 151 to 156)
+- Save offers to update the Library preset you loaded, flip stems, copy/paste/duplicate/insert bars, drag to reorder bars, delete any bar, and the status message no longer covering the top buttons.
+
+This build is 157.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.157/BeatBake.dmg" length="7600447" type="application/octet-stream" sparkle:edSignature="JU+/ZP8hMiGJfO+YXyYZIMdSPEZzATT2UpBpZqOoVHqgaiIJUCI9ZoI0Ev+x7PUjKusAIsA3tmdXEG9kBEAIBw=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 08 Oct 2026 14:45:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>156</sparkle:version>
