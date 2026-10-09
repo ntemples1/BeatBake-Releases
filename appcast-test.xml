@@ -8,6 +8,26 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 09 Oct 2026 09:50:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>161</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Reverse Bar
+- **Right-click a bar** in the notation and choose **Reverse Bar** to play it backwards: the last note becomes the first, so a fill runs in reverse. It is also in the round "..." **Bar actions** menu in the Grid toolbar (for the selected bar).
+- **Reverse All Bars** does the same to the whole groove as one phrase: every bar is reversed and the bars run in the opposite order, for fills that run over several bars.
+- Notes keep their lengths, accents, flams, stem direction and stickings (R L R R becomes R R L R). A quarter-note crash on beat 1 lands on beat 4 and is still a quarter note. Do it twice and you are back where you started, and Undo works.
+
+## Also in this test build (from 151 to 160)
+- The smaller blue New Worksheet button, the notation Spacing slider, Back Up All Data / Restore Backup and daily backups, Undo for worksheets and presets, groove files and Open Recent, Open Example Chart, grid keyboard controls, per-hit audio volume, right-click menus on bars and worksheet exercises, flip stems, copy/paste/duplicate/insert bars, drag to reorder bars and delete any bar.
+
+This build is 161.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.161/BeatBake.dmg" length="7847489" type="application/octet-stream" sparkle:edSignature="LUE2Aw/4MLfAA00cPV0Xn6JhR0v/trR+suhWJfHo/jwbNSSJ1GTQnxSpyV10EyYrpmUeiuiQT/FVVLD2Vtx1CA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 08 Oct 2026 19:55:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>160</sparkle:version>
