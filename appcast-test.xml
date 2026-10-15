@@ -8,6 +8,21 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 15 Oct 2026 09:10:00 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>164</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Playhead
+- The playhead no longer jumps at each barline. It used to run on to the end of a bar and then leap across the barline and the start of the next bar in one go. Now it glides to the next bar's first note, the same fix the iPad app has. It still speeds up slightly over the barline, because that gap is real distance covered in the bar's last step, and the last bar still ends at its edge.
+
+This build is 164 (161 is the current public release).
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.164/BeatBake.dmg" length="7847470" type="application/octet-stream" sparkle:edSignature="tDYfzkngr9e0BdD0yyEJYB0Ks/5riSeS0qzdGdnxV8F64Az9Bp38sxTuAKsjHKtVZbHORk62rQOZgOj5IfdHCA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 09 Oct 2026 09:50:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>161</sparkle:version>
