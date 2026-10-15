@@ -8,6 +8,28 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 15 Oct 2026 22:02:56 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>167</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Smoother editing and safer Reverse Bar
+
+- Editing notes no longer rebuilds the transport controls. The grid reuses prepared note positions and triplet header labels during redraws.
+- Reverse Bar keeps 32nd-note and triplet ghost notes intact. If a reversal would lose notes, stickings or part of a sustain, BeatBake leaves the groove intact and explains why.
+- Play Only Bar keeps the notation cursor and Pupil View inside the chosen bar.
+
+Validation: 305 local tests, two intentional skips, no failures. Live-versus-fresh transport rendering checked at 1100 and 1440 points, expanded and collapsed. The repeated grid screenshot is pixel-identical to the previous version. In the corrected local release benchmark, median full-window painting cost fell from about 12 ms to 6 ms. This measures CPU updates/layout/drawing submission, not display frame rate.
+
+Please try painting and erasing dense grooves, switching grid modes, reversing ghost-note fills, and Play Only Bar in normal notation and Pupil View.
+
+Private test build only. The customer release remains 161.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.167/BeatBake.dmg" length="7878246" type="application/octet-stream" sparkle:edSignature="kMy8/4zliWzuxj3rX6pPpeUxNNzgVlnjjpzaBuOvdoTTq03le55Yut/Ah90gKlmqoH3wQMVjPj8sSWKyjzWDBQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 15 Oct 2026 11:25:00 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>165</sparkle:version>
