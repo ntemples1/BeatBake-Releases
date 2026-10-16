@@ -4,40 +4,22 @@
         <title>BeatBake</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 13 Oct 2026 10:00:00 +0100</pubDate>
+            <pubDate>Fri, 16 Oct 2026 10:39:05 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
-            <sparkle:version>161</sparkle:version>
+            <sparkle:version>169</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Editing bars
-- **Drag a bar** by its grip under the notation to reorder bars, nudge it left or right with the arrows, or delete any bar you choose (keep only bar 4 of a 4-bar groove, for example).
-- **Copy, paste, duplicate and insert bars** in the main view, like Song Chart Builder: right-click a bar, or use the round "..." Bar actions button in the Grid toolbar. Command-C and Command-V copy and paste the selected bar.
-- **Right-click any bar** in the notation for a menu with all of this plus Clear, Flip Stems, Bar Voice, Add Bar to Worksheet, Play Only Bar, Move and Delete.
-- **Reverse Bar** plays a bar backwards, so a fill runs in reverse. **Reverse All Bars** reverses the whole groove as one phrase. Notes keep their lengths, accents, flams and stickings, and Undo works.
-- **Flip Stems**: click a note (a blue ring shows it is picked) and press the Flip Stems button or **X** to flip its stem. With nothing picked it flips every hand note in the bar.
-- A new **Spacing** slider above the notation runs from Compact to Wide (Fit resets it). It only changes the screen, not printing.
+            <description sparkle:format="markdown"><![CDATA[## Smoother editing and visible grid counts
 
-## Worksheets
-- A **Worksheet** button beside Chart Builder takes you straight to the worksheet panel, and a blue **New Worksheet** button sits at the top right of it.
-- Right-click an exercise to copy, paste, load onto the grid, move, rename, duplicate or delete it.
-- **Add Current** and **Save To** now use the bar you have selected (they used to use the first bar).
+- **Keep the counts in view.** The counting strip stays visible while scrolling down through the instrument rows, and beat numbers, subdivisions and stickings stay aligned when scrolling sideways. Works in the main grid and Chart Builder's beat editor.
+- **Lighter scrolling and editing.** The grid reuses more of its drawing work, and editing notes avoids rebuilding unrelated transport controls.
+- **Smoother playhead.** The cursor glides across barlines. Play Only Bar keeps the cursor inside the chosen bar, and Pupil View stays within the selected playback range.
+- **Safer Reverse Bar.** Ghost notes entered on 32nd and triplet grids are preserved. If a reversal would lose notes, stickings or part of a sustain, BeatBake leaves the groove intact and explains why.
 
-## Saving and keeping your work safe
-- **Save asks before it leaves a copy behind:** if you load a groove from the Library, or an exercise from a worksheet, change it and press Save, BeatBake offers to update that preset or exercise too.
-- **Back Up All Data** now saves your whole library, settings and the song chart you are working on in one file, and **Restore Backup** shows what is inside, asks first and keeps a safety copy. BeatBake also keeps a **daily backup** (the last 14 days), with Show Daily Backups and Choose Backup Folder (for an external drive).
-- If a library or chart file ever cannot be read, BeatBake keeps an exact copy and warns you instead of quietly overwriting it. **Undo** now also covers worksheets, presets and rudiments. When a trial ends, your work still autosaves for recovery.
-- A `.drumgroove` file now holds just the groove, so it is safe to share. **Open Recent** is in the File menu, and double-clicking a groove, chart or backup file in Finder opens it in BeatBake.
-
-## Also
-- **Open Example Chart** gives you an original 16-bar chart to explore (also offered on first run).
-- In the grid, arrow keys move the selection, Return applies the current tool and Delete removes a note. Grid cells and notes have VoiceOver descriptions.
-- Each drum hit now carries its own volume, aimed at the occasional loud jump in playback. If the audio device changes during play, BeatBake stops cleanly and asks you to press Play again.
-- The short status message ("Saved", "Bar 4 stems flipped down") no longer covers the Licensed button.
-
-This build is 161.
+BeatBake 1.0 (169). Requires Apple silicon and macOS 14 or later.
 ]]></description>
-            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.161/BeatBake.dmg" length="7847489" type="application/octet-stream" sparkle:edSignature="LUE2Aw/4MLfAA00cPV0Xn6JhR0v/trR+suhWJfHo/jwbNSSJ1GTQnxSpyV10EyYrpmUeiuiQT/FVVLD2Vtx1CA==" />
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.169/BeatBake.dmg" length="7890941" type="application/octet-stream" sparkle:edSignature="KGogBJ9hsSNj1xXM/bVFDdstRGvou2roqddDIwXJczLcH1URDlW9/9kCrc1qF9sdzg1s7z+XZSkaR3ZWZjY0BA=="/>
         </item>
     </channel>
 </rss>
