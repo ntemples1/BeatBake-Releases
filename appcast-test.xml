@@ -8,6 +8,29 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 16 Oct 2026 12:26:45 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>170</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Spoken count-in
+
+- Choose **Voice** from the Count In sound menu for spoken English numbers. It follows the time signature and restarts at one for each count-in bar.
+- At fast tempos the words shorten without raising their pitch, finishing before the next beat. Count-in length and the groove's starting beat stay unchanged.
+- The first use briefly shows **Voice…** while your Mac prepares its English voice. If it is still preparing when you press Play, BeatBake explains that in the status message.
+- Keep **Internal Audio** on to hear speech. MIDI-only count-ins use a rim click.
+
+Automated app tests now render silently and block external MIDI output, preventing sudden loud drum sounds during checks.
+
+Please try one and two bars at slow and fast tempos, odd time signatures, and stopping/restarting during the count-in.
+
+This is test build170. The customer release remains169.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.170/BeatBake.dmg" length="7917154" type="application/octet-stream" sparkle:edSignature="H93Cd71auXsTSe9c3hdC0gKlywhoJKiRK5XttTeXdFTzPONYhQlQFhcTfwOlHinoDjnbsRUmABPq54UDuekLDQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 16 Oct 2026 10:39:05 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>169</sparkle:version>
