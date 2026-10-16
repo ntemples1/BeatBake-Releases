@@ -8,6 +8,28 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 16 Oct 2026 10:15:02 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>169</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Keep the grid counts visible
+
+The counting strip now stays at the top of the scrolling area while you scroll down through the instrument rows, like on iPad. Beat numbers, subdivisions and stickings stay aligned with their note columns when scrolling sideways. Once you scroll past the last row, the strip leaves with the grid.
+
+This works in the main grid and Chart Builder's beat editor. Only the small strip observes vertical scrolling, keeping scroll updates separate from the note cells and toolbar.
+
+Checked with native vertical and horizontal scrolling, plus real-window renders at 1100 and 1440 points. 307 local tests, two intentional skips, no failures. Includes the fixes from test167.
+
+Try scrolling down to the lower drums and then sideways while entering notes.
+
+Private test build169. The current customer release remains161.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.169/BeatBake.dmg" length="7890941" type="application/octet-stream" sparkle:edSignature="KGogBJ9hsSNj1xXM/bVFDdstRGvou2roqddDIwXJczLcH1URDlW9/9kCrc1qF9sdzg1s7z+XZSkaR3ZWZjY0BA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 15 Oct 2026 22:02:56 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>167</sparkle:version>
