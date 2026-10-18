@@ -8,6 +8,26 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Sun, 18 Oct 2026 20:46:55 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>172</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Louder recorded kit
+
+- Raise the new Default kit and Ride Bell by **10 dB**, just over three times build171's signal level, using the same boost across the recordings.
+- Protect the combined output with a peak limiter so loud hits together stay within output range. Quieter sounds pass through without compression.
+- Existing mixer settings, generated flam timing, MIDI and spoken voice gain are unchanged. Original recordings and prepared WAV files are untouched.
+
+Please try the overall kit level, ghost snare, flams and loud combinations at your usual mixer settings.
+
+Test build172. Customer release remains169.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.172/BeatBake.dmg" length="10437042" type="application/octet-stream" sparkle:edSignature="FZV0YQlJXHNyfzB6pUG3WvilbyeJF1RU0f/o8AD6skd6f7dzuBRDt0DKP/+3GljJEfkjNtxBm6D41zN7RQVRAQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sun, 18 Oct 2026 20:15:08 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>171</sparkle:version>
