@@ -8,6 +8,25 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Sun, 18 Oct 2026 21:29:50 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>173</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Mixer gain reserve
+
+- Internal drum channels now have three times the available gain, so faders can sit around halfway with more level available above them.
+- A fader at **50** supplies about **1.5 times the previous full-fader signal**, before peak protection. Another 6 dB is available between halfway and full.
+- Your saved mixer positions are kept. After updating, bring the instrument faders to around **50**, then balance the kit from there.
+- Peak protection remains active. MIDI, generated flam timing, recorded files, count-in, metronome and spoken voice gain are unchanged.
+
+Test build173. Customer release remains169.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.173/BeatBake.dmg" length="10437658" type="application/octet-stream" sparkle:edSignature="W8JidEwzudmGa69bu9EVT3TeZlu0tZJoORDAL8R7gzKHLImbmSG3cTeoCNdPt1XNsI9x81TKRL69KkC//W+cBA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sun, 18 Oct 2026 20:46:55 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>172</sparkle:version>
