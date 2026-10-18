@@ -8,6 +8,28 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Sun, 18 Oct 2026 20:15:08 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>171</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Updated internal drum kit
+
+- New Default recordings for kick, snare, ghost snare, cross-stick, hi-hats, three toms, ride and crash, with consistent playback headroom and the recordings' relative dynamics preserved.
+- The existing Ride Bell now has its own bundled recording. Cowbell keeps its existing sound.
+- Snare and tom flams use the new single-hit recordings with the same generated grace stroke and timing. Instrument rows and MIDI mappings are unchanged.
+- Open hi-hat keeps its recorded decay until a closed or pedal hi-hat chokes it.
+- Non-voice count-in sounds use short mono buffers, keeping stereo recordings compatible and fast counts on time. Voice count-in is unchanged.
+
+Please try the kit balance, ghost snare, snare/tom flams, open-hat choke and fast count-ins.
+
+Test build171. The customer release remains169.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.171/BeatBake.dmg" type="application/octet-stream" sparkle:edSignature="VEmp8JQxuYPB8x8ezObX4f8Pvj0QZiMbZfvv9tOUy4cqVtBHlwuOZpbbWYSH3jXRiN0Bb6mznWZEJ4zuh/FHCA==" length="10435995"/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 16 Oct 2026 12:26:45 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>170</sparkle:version>
