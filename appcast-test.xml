@@ -8,6 +8,24 @@
         <title>BeatBake (test)</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 22 Oct 2026 19:37:19 +0100</pubDate>
+            <link>https://beatbake.co.uk</link>
+            <sparkle:version>174</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Test build174 improves dense groove editing with less repeated notation work and fewer worksheet/mixer refreshes. In the same local release fixture, median editing update cost fell by about23-25% at1100/1440 points. These are CPU timings, not a display frame-rate guarantee.
+
+Quiet drum and click fallback samples are now explicitly protected during bounded audio-cache eviction. Existing notation appearance and mounted worksheet/mixer refresh checks pass. Full local suite:343 tests,3 expected skips,0 failures. Testing was silent.
+
+Try dense paint/erase, worksheet Load/Edit/Done and drag/reorder, and mixer faders/mutes. MP3 linking remains a separate proposal and is not enabled in this build.
+
+Customers remain on173.
+]]></description>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.174/BeatBake.dmg" length="10462919" type="application/octet-stream" sparkle:edSignature="fsRpgUw52E2Nz6nxVAJ0z4kXgCaateH3KFe7GQAUt+BCLioA+UXF24lROU+Smmr30FU0KGHDvvfiE9q1mfxRAw=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sun, 18 Oct 2026 21:29:50 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
             <sparkle:version>173</sparkle:version>
