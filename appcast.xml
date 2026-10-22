@@ -4,22 +4,21 @@
         <title>BeatBake</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 19 Oct 2026 10:00:00 +0100</pubDate>
+            <pubDate>Thu, 22 Oct 2026 21:01:51 +0100</pubDate>
             <link>https://beatbake.co.uk</link>
-            <sparkle:version>173</sparkle:version>
+            <sparkle:version>174</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Spoken count-in, new drum kit and more level
+            <description sparkle:format="markdown"><![CDATA[## Smoother editing
 
-- **Spoken count-in.** Choose **Voice** from the Count In sound menu for spoken English numbers. It follows the time signature and restarts at one for each count-in bar. At fast tempos the words shorten without raising their pitch. Keep Internal Audio on to hear it.
-- **New internal drum kit.** Your own Default recordings for kick, snare, ghost snare, cross-stick, hi-hats, three toms, ride and crash, plus a bundled Ride Bell. Flams use the same generated grace stroke, instrument rows and MIDI mappings are unchanged, and the open hi-hat keeps its recorded decay until a closed or pedal hi-hat chokes it.
-- **Louder.** The kit is 10 dB louder, and the internal drum faders now have three times the gain: a fader at about **50** is a comfortable level, with more available above it. Your saved fader positions are kept, so after updating bring the instrument faders to around 50 and balance from there. A peak limiter keeps loud hits together within output range.
-- Count-in sounds use short buffers so fast counts stay on time. Automated checks now run silently and never send external MIDI.
+- Less repeated notation work when editing dense grooves.
+- Worksheet cards and mixer controls refresh when their own settings change, keeping grid editing lighter.
+- Better protection for quiet drum and click samples when the audio cache is under pressure.
 
-BeatBake 1.0 (173). Requires Apple silicon and macOS 14 or later.
+BeatBake 1.0 (174). Requires Apple silicon and macOS 14 or later.
 ]]></description>
-            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.173/BeatBake.dmg" length="10437658" type="application/octet-stream" sparkle:edSignature="W8JidEwzudmGa69bu9EVT3TeZlu0tZJoORDAL8R7gzKHLImbmSG3cTeoCNdPt1XNsI9x81TKRL69KkC//W+cBA=="/>
+            <enclosure url="https://github.com/ntemples1/BeatBake-Releases/releases/download/v1.0.174/BeatBake.dmg" length="10462919" type="application/octet-stream" sparkle:edSignature="fsRpgUw52E2Nz6nxVAJ0z4kXgCaateH3KFe7GQAUt+BCLioA+UXF24lROU+Smmr30FU0KGHDvvfiE9q1mfxRAw=="/>
         </item>
     </channel>
 </rss>
